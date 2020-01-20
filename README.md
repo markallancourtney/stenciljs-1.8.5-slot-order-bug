@@ -5,6 +5,9 @@ NOTE:
 Before submitting an issue, please consult our docs -> https://stenciljs.com/
 -->
 
+**Repo containing demo of this bug**
+https://github.com/markallancourtney/stenciljs-1.8.5-slot-order-bug
+
 **Stencil version:**
 <!-- (run `npm list @stencil/core` from a terminal/cmd prompt and paste output below): -->
 ```
